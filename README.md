@@ -1,27 +1,34 @@
-# AngularBootstrapFontawesomeBoilerplateTemplate
+# angular-bootstrap-fontawesome-boilerplate-template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+This minimalistic template provides a clean starting point for your Angular projects, preconfigured with Angular 16, Bootstrap 5, and FontAwesome 6. It's designed to help you kickstart your modern web development workflow.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular 16:** The latest version of Angular, offering powerful tools for building web applications.
+- **Bootstrap 5:** A front-end framework for creating responsive and mobile-friendly designs.
+- **FontAwesome 6:** Access to a vast library of customizable icons to enhance your application's UI.
+- **Clean Slate:** This boilerplate template is a blank canvas, allowing you to build your application from the ground up.
+- **GitHub Template:** Easily create your own repository from this template by clicking the "Use this template" button on GitHub.
+  
+## Prerequisites
+  Make sure you have the following installed on your machine:
+  - Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager.
+  - Angular CLI - Install Angular CLI using the npm package manager by running the following command:
+    ```bash
+    $ npm install -g @angular/cli
+    ```
 
-## Code scaffolding
+## Getting Started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To use this boilerplate template, follow these steps:
 
-## Build
+  1. Click on the `Use this template` button to create a new repository based on this template
+  2. Open your new repository in your favorite IDE or editor
+  3. Run `npm install` to install the requiered dependencies for Bootstrap and FontAwesome
+  4. Run `npm start` to start the development server
+  5. Navigate to `http://localhost:4200/` to view the application
+  6. Make your changes using Bootstrap and FontAwesome and start building your application!
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Contributions
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contributions to this template are welcome! If you encounter any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
