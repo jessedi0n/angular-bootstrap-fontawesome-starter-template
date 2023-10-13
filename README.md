@@ -1,4 +1,4 @@
-# angular-bootstrap-fontawesome-boilerplate-template
+# angular-bootstrap-fontawesome-starter-template
 
 This minimalistic template provides a clean starting point for your Angular projects, preconfigured with Angular 16, Bootstrap 5, and FontAwesome 6. It's designed to help you kickstart your modern web development workflow.
 
@@ -7,7 +7,6 @@ This minimalistic template provides a clean starting point for your Angular proj
 - **Angular 16:** The latest version of Angular, offering powerful tools for building web applications.
 - **Bootstrap 5:** A front-end framework for creating responsive and mobile-friendly designs.
 - **FontAwesome 6:** Access to a vast library of customizable icons to enhance your application's UI.
-- **Clean Slate:** This boilerplate template is a blank canvas, allowing you to build your application from the ground up.
 - **GitHub Template:** Easily create your own repository from this template by clicking the "Use this template" button on GitHub.
   
 ## Prerequisites
@@ -20,7 +19,7 @@ This minimalistic template provides a clean starting point for your Angular proj
 
 ## Getting Started
 
-To use this boilerplate template, follow these steps:
+To use this starter template, follow these steps:
 
   1. Click on the `Use this template` button to create a new repository based on this template
   2. Open your new repository in your favorite IDE or editor
